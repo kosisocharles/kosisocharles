@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Kosisochukwu CHarles
 
-<!--
-**kosisocharles/kosisocharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- Cybersecurity Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Exploring Cloud Security in Cybersecurity.
+  
+-  Lifelong learner passionate about digital and technological innovation.
+
+### My Work
+
+-  [LinkedIn Profile ](https://www.linkedin.com/in/kosisochukwu-charles-4a3b5327b/)
+
+-  [Resume](#https://docs.google.com/document/d/1buvbyBIdTEWDvN1qIA75MRsfelw-BwVuq6R638mH_CU/edit?usp=sharing)
+
+###  Skills
+
+- **Technical Expertise**: Web & Application Security, Penetration Testing,
+Risk Assessments, Network Security, Endpoint security.
+
+- **Tools**: Wireshark, Google Cloud, Wazuh, PFSense
