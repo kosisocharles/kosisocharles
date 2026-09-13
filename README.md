@@ -19,4 +19,4 @@
 - **Technical Expertise**: Web & Application Security, Penetration Testing,
 Risk Assessments, Network Security, Endpoint security.
 
-- **Tools**: Wireshark, Google Cloud, Wazuh, PFSense
+- **Tools**: Wireshark, Google Cloud, Wazuh, PFSense,Metasploit, Active Directory, OSINT.
